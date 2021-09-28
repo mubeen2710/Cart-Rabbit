@@ -1,0 +1,18 @@
+.login {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  font-size: large;
+}
+input {
+  float: right;
+}
+.profile-img-card {
+  width: 100px;
+}
+.span1 {
+  color: rgb(97, 173, 173);
+}
+.span1:hover {
+  color: rgb(0, 0, 0);
+}

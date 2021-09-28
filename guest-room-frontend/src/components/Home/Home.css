@@ -1,0 +1,7 @@
+.block {
+  border: 1px solid rgb(160, 158, 158);
+  height: 200px;
+}
+img.front {
+  max-height: 150px;
+}
